@@ -2,7 +2,7 @@ import React from 'react';
 
 const HeroSection = () => (
   <section id="home" className="bg-yellow-50 text-center py-20 px-4">
-    <h1 className="text-5xl font-bold text-green-800 mb-4">Lemon Tree Restaurant</h1>
+    <h1 className="text-5xl font-bold text-green-800 mb-4">Little Lemon Restaurant</h1>
     <p className="text-xl text-green-700">Fresh. Local. Delicious. Mediterranean-inspired.</p>
     <a
       href="#menu"

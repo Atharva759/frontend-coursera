@@ -5,7 +5,7 @@ const Confirmation = () => {
   const { state } = useLocation();
   const navigate = useNavigate();
 
-  // If someone opens this page directly without state, redirect back
+  
   if (!state) {
     navigate('/reservation');
     return null;
